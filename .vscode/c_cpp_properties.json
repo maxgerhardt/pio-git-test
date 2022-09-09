@@ -1,0 +1,56 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/Max/temp/pio-git-test/include",
+                "c:/Users/Max/temp/pio-git-test/src",
+                "C:/Users/Max/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/Max/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/Max/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/Max/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/Max/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/Max/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/Max/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/Max/temp/pio-git-test/include",
+                    "c:/Users/Max/temp/pio-git-test/src",
+                    "C:/Users/Max/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/Max/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/Max/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/Max/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/Max/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/Max/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/Max/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60105",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/Max/.platformio/packages/toolchain-atmelavr@1.70300.191015/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
