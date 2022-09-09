@@ -6,4 +6,5 @@ void setup() {
 
 void loop() {
     Serial.println("Version: " + String(VERSION));
+    Serial.println("Revision: " + String(PIO_SRC_REV));
 }
